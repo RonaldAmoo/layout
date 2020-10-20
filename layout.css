@@ -1,0 +1,25 @@
+.navbar{
+	height: 80px;
+	background-color:black; 
+	margin-bottom: 20px;
+}
+.hero{
+	height: 400px;
+	background-color: red;
+	margin-bottom: 20px;
+}
+#container{
+	display: flex;
+	justify-content: space-between;
+}
+.item{
+	height: 300px;
+	width: 300px;
+	background-color: yellow;
+	margin-bottom: 20px;
+
+}
+.footer{
+	height: 50px;
+	background-color: green;
+}
